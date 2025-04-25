@@ -82,5 +82,3 @@ Built as part of a personal mission to explore how **code can shape character**,
 MIT License. You're free to remix, adapt, and build on it — especially if it helps someone grow.
 
 ```
-
----
