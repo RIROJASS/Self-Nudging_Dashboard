@@ -1,8 +1,7 @@
 ---
 
-# 🧠 
-Self-Nudging Dashboard
-
+# Self-Nudging Dashboard
+---
 A minimalist, accessible, and offline-ready dashboard designed to prime your mind daily with prompts that steer you toward better habits and self-awareness. This is a lightweight MVP to kickstart a bigger goal: using local tools and personal data to shape behavior through adaptive, intentional nudging.
 
 ---
