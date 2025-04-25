@@ -84,12 +84,3 @@ MIT License. You're free to remix, adapt, and build on it — especially if it h
 ```
 
 ---
-
-Once you paste that into GitHub, let me know and we’ll jump into **Phase 2**:  
-🧾 *Tracking inputs* (your actions, habits, or moods) **right from the dashboard**.
-
-Would you like to do that with:
-- 📋 a simple in-page **text input field**, or  
-- 📂 logging to a file or localStorage for future analysis?
-
-Let’s keep building!
